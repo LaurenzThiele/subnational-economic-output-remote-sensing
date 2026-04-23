@@ -1,7 +1,5 @@
 # Replication code - Subnational GDP estimation via remote sensing
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19705003.svg)](https://doi.org/10.5281/zenodo.19705003)
-
 This repository contains the replication code for a study examining the relationship between subnational gross regional domestic product (GRDP) and satellite-derived environmental indicators in Sulawesi and Maluku, Indonesia (2002–2024, province level; 2015–2024, regency/city level). The analysis combines Multiscale Geographically Weighted Regression (MGWR) with ordinary least squares (OLS) models including year fixed effects to assess spatial and temporal variation in these relationships.
 
 The exact version of the code used in the study is archived on Zenodo and available at: https://doi.org/10.5281/zenodo.19705003
