@@ -1,0 +1,12 @@
+# RStudio / R files
+**/*.Rproj
+**/.RData
+**/.Rhistory
+**/.Rproj.user
+
+# IDE settings
+**/.idea/
+**/.venv/
+
+# Internal
+data_processed/create_dataset.R

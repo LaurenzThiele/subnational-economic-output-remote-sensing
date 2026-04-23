@@ -1,0 +1,15 @@
+part;term;statistic;NTL;NTL + NDVI;NTL + NDVI + Forest Loss;NTL + NDVI + Forest Loss + Chl-a
+estimates;Log(NTL);estimate;0.423***;0.418***;0.419***;0.420***
+estimates;Log(NTL);({std.error});(0.018);(0.017);(0.017);(0.017)
+estimates;Log(NDVI);estimate;;-0.093***;-0.157***;-0.160***
+estimates;Log(NDVI);({std.error});;(0.018);(0.023);(0.023)
+estimates;Log(Forest loss);estimate;;;0.072***;0.065***
+estimates;Log(Forest loss);({std.error});;;(0.018);(0.018)
+estimates;Log(Chl-a);estimate;;;;0.029***
+estimates;Log(Chl-a);({std.error});;;;(0.007)
+gof;Num.Obs.;;1020;1020;1020;1020
+gof;R2;;0.391;0.414;0.420;0.425
+gof;R2 Adj.;;0.385;0.407;0.413;0.418
+gof;F;;56.176;58.780;56.629;53.307
+gof;RMSE;;0.70;0.69;0.69;0.68
+manual;Year fixed effects;;Yes;Yes;Yes;Yes

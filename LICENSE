@@ -1,0 +1,56 @@
+MIT License
+
+Copyright (c) 2026 Laurenz Thiele
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+Data attribution
+
+This repository contains code only. The underlying datasets are not included
+and must be obtained directly from their respective providers. When using or
+citing this work, please also cite the original data sources:
+
+Badan Informasi Geospasial (BIG). BATAS_WILAYAH [MapServer]. 2025.
+  https://geoservices.big.go.id/rbi/rest/services/BATASWILAYAH/BATAS_WILAYAH/MapServer
+
+Badan Pusat Statistik (BPS). Produk Domestik Regional Bruto. https://www.bps.go.id/
+
+Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 500m SIN
+  Grid V061. NASA EOSDIS Land Processes DAAC.
+  https://doi.org/10.5067/MODIS/MOD13A1.061
+
+Friedl, M. and Sulla-Menashe, D. (2022). MODIS/Terra+Aqua Land Cover Type Yearly
+  L3 Global 500m SIN Grid V061. NASA EOSDIS Land Processes DAAC.
+  https://doi.org/10.5067/MODIS/MCD12Q1.061
+
+NASA Ocean Biology Processing Group (2022). MODIS-Aqua Level-3 Chlorophyll-a
+  Data (2002–2024), Version R2022.0. NASA Ocean Biology DAAC.
+  https://oceandata.sci.gsfc.nasa.gov/l3/
+
+GEBCO Compilation Group (2025). GEBCO 2025 Grid.
+  https://doi.org/10.5285/37c52e96-24ea-67ce-e063-7086abc05f29
+
+Hansen, M. C., et al. (2013). High-Resolution Global Maps of 21st-Century
+  Forest Cover Change. Science, 342, 850–853. Data (CC BY 4.0):
+  https://glad.earthengine.app/view/global-forest-change
+
+Li, X., Zhou, Y., Zhao, M., & Zhao, X. (2020). Harmonization of DMSP and
+  VIIRS Nighttime Light Data from 1992–2024 at the Global Scale (Version 10).
+  figshare (CC BY 4.0). https://doi.org/10.6084/m9.figshare.9828827.v10
